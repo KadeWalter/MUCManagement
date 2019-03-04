@@ -20,4 +20,4 @@
 
     // Status of Insert: echo 1 for success, 0 for fail
     echo "1";
-?>
+?> 
