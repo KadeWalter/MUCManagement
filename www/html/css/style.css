@@ -1,0 +1,52 @@
+/* Universal Rules */
+body,h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway", sans-serif;
+    color: black;
+}
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+.text-white {
+    color:white;
+}
+.page-head {
+    margin-top: 60px; 
+}
+.bg-white {
+    background-color: white;
+}
+.bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../images/backgroundImg.jpg");
+    min-height: 100%;
+}
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+/* Home Page */
+.home-links {
+    margin-top: 90px;
+}
+.login-form {
+    margin-top: 8%;
+}
+.home-text {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 14pt;
+}
+.home-btn {
+    width: 200px;
+}
+/* Footer */
+.page-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding-left: 5px;
+    font-size: 8pt;
+    color: white;
+}
